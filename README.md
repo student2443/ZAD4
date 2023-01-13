@@ -1,1 +1,1 @@
-# ZAD4
+1 nadpisanie pliku README.md
